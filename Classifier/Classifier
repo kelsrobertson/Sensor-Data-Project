@@ -1,0 +1,3 @@
+This file contains a trained machine learning classification model saved using Python's pickle module. 
+The model was built during our sensor data analysis project to automatically classify data based on sensor readings. 
+It can be loaded and used to make predictions without needing to retrain the model each time.
