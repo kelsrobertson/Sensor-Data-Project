@@ -1,1 +1,21 @@
-Dataset that is used for creation of project.
+# Dataset: Sensor Data (Confidential_341Project_DataSet7)
+
+This dataset contains time-series sensor readings used for analyzing environmental or system-based changes over time. It was used in the ISAT 341 project to detect trends, outliers, and significant differences in sensor behavior.
+
+# Features
+- Timestamped sensor readings (columns may include temperature, humidity, pressure, or other measurable units)
+- Potential missing values or noise for data cleaning practice
+- Used for statistical testing (e.g., t-tests) and visualization
+
+# Source
+Provided as part of a course project for **ISAT 341: Data Visualization and Analysis** at James Madison University. This dataset is proprietary and for educational use only.
+
+# Format
+- CSV format  
+- Columns: [Specify if known, e.g., `Time`, `Sensor_A`, `Sensor_B`, etc.]  
+- Rows: Each row represents a single time-point reading from one or more sensors
+
+# Notes
+- Missing or inconsistent values were addressed during preprocessing  
+- Used in the project to visualize trends and compare values across different time periods  
+- Not publicly available due to confidentiality restrictions
